@@ -1,5 +1,5 @@
 
-### Hasil Output Akhir Tugas Pertemuan ke 8-1 
+# Hasil Output Akhir Tugas Pertemuan ke 8-1 
 ```
 
 Isi array:
@@ -14,7 +14,7 @@ Slice [1:3]: ['durian', 'mangga']
 ```
 
 
-### Hasil Output Akhir Tugas Pertemuan ke 8-2
+# Hasil Output Akhir Tugas Pertemuan ke 8-2
 
 ```
 Hasil penjumlahan = 8
