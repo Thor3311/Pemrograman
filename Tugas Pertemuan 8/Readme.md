@@ -1,6 +1,7 @@
 
 # Hasil Output Akhir Tugas Pertemuan ke 8-1 
-``
+``py
+
 Isi array:
   0. apel
   1. mangga
@@ -9,4 +10,5 @@ Isi array:
 
 Setelah di-sort: ['apel', 'durian', 'mangga', 'pisang']
 Slice [1:3]: ['durian', 'mangga']
+
 ``
